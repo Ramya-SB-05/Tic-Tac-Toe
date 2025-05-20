@@ -40,3 +40,9 @@ The app announces the winner or a draw using a message box.
 
 ![image](https://github.com/user-attachments/assets/f9f0f2a3-b3b6-4cd3-9575-717d25e306b7)
 
+![image](https://github.com/user-attachments/assets/187fa726-e11c-4225-bfaf-06994857fdf0)
+
+![image](https://github.com/user-attachments/assets/f007997f-4a55-4ec0-8a96-ace919968be4)
+
+
+
