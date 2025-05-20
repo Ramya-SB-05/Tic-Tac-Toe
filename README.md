@@ -25,12 +25,18 @@ When the app launches, you'll see the instructions page.
 
 Click Next to select:
 
-   -Who plays first (X or O)
+     -Who plays first (X or O)
 
-   -Play mode (Two players or vs Robot)
+     -Play mode (Two players or vs Robot)
 
 The game board appears with a 3x3 grid.
 
 Click a cell to place your mark.
 
 The app announces the winner or a draw using a message box.
+
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/f9f0f2a3-b3b6-4cd3-9575-717d25e306b7)
+
