@@ -1,4 +1,4 @@
-🎮 Tic Tac Toe Game (GUI) using Python & Tkinter
+**🎮 Tic Tac Toe Game (GUI) using Python & Tkinter**
 
 This is a graphical Tic Tac Toe game built using Python’s tkinter library. It supports 2-player mode and a single-player mode vs Robot (AI) with a clean user interface and smooth gameplay.
 
